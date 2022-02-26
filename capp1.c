@@ -12,6 +12,5 @@
            printf("\n\n");
            return   0;
      }   
-     // some demo text 
-     // above code is used to create a patten of letters
+
      
